@@ -2,7 +2,7 @@ replicaCount: 2
 image:
   repository: bluezd/suse-demo-frontend
   pullPolicy: Always
-  tag: a02d22d6def74bf1d52c7438161ddcde2f0ca347
+  tag: v1
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
